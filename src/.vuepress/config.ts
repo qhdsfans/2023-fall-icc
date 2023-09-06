@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/2023-fall-icc/",
 
   lang: "zh-CN",
   title: "计算概论C",
