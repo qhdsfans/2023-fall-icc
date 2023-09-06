@@ -1,0 +1,15 @@
+export const pagesRoutes = [
+  ["v-744ccd44","/src/",{"title":"项目主页"},["/src/README.md"]],
+  ["v-6c5c0573","/src/slides.html",{"title":"幻灯片页"},[":md"]],
+  ["v-b334c830","/src/demo/",{"title":"主要功能与配置演示"},["/src/demo/README.md"]],
+  ["v-7517aed9","/src/demo/disable.html",{"title":"布局与功能禁用"},[":md"]],
+  ["v-3ba1c57c","/src/demo/encrypt.html",{"title":"密码加密的文章"},[":md"]],
+  ["v-697c033c","/src/demo/markdown.html",{"title":"Markdown 展示"},[":md"]],
+  ["v-71832e7c","/src/demo/page.html",{"title":"页面配置"},[":md"]],
+  ["v-2c4beef7","/src/guide/",{"title":"指南"},["/src/guide/README.md"]],
+  ["v-366ba1f3","/src/guide/bar/",{"title":"Bar 功能"},["/src/guide/bar/README.md"]],
+  ["v-04881c91","/src/guide/bar/baz.html",{"title":"Baz"},[":md"]],
+  ["v-366da7a0","/src/guide/foo/",{"title":"Foo 功能"},["/src/guide/foo/README.md"]],
+  ["v-315bcae2","/src/guide/foo/ray.html",{"title":"Ray"},[":md"]],
+  ["v-3706649a","/404.html",{"title":""},[]],
+]
