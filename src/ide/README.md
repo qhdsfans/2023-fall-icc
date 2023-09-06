@@ -16,4 +16,4 @@ Python是一种脚本语言，编辑完成的程序，也称源代码，可以�
 - [Visual Studio Code](./vscode)
 - [PyCharm](./pycharm)
 - [在线开发环境](./online)
-- [为什么我不推荐 Dev-C++](./devcpp)
+- [thonny](./thonny)
