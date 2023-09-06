@@ -22,7 +22,7 @@ export default hopeTheme({
   navbar: false,
 
   // sidebar
-  sidebar,
+  sidebar: "structure",
 
   footer: "vuepress 好玩",
 
