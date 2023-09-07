@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o}from"./app-948123a4.js";const n={};function c(r,_){return t(),o("div")}const f=e(n,[["render",c],["__file","thonny.html.vue"]]);export{f as default};
