@@ -7,12 +7,12 @@ title: 计算概论C
 这里是《计算概论 C》（2班）信息站。
 
 <div class="action-container">
-    <a href="/ide/" class="action bg1">开发环境相关</a>
-    <a href="/oj/" class="action bg7">编程网格相关</a>
-    <a href="/py/" class="action bg2">Python 相关</a>
-    <a href="/ms3/" class="action bg9">Microsoft三件套</a>
-    <a href="/errata/" class="action bg3">课件勘误</a>
-    <a href="/answer/" class="action bg10">习题解答</a>
+    <a href="./ide/" class="action bg1">开发环境相关</a>
+    <a href="./oj/" class="action bg7">编程网格相关</a>
+    <a href="./py/" class="action bg2">Python 相关</a>
+    <a href="./ms3/" class="action bg9">Microsoft三件套</a>
+    <a href="./errata/" class="action bg3">课件勘误</a>
+    <a href="./answer/" class="action bg10">习题解答</a>
 </div>
 
 ## 快捷链接
