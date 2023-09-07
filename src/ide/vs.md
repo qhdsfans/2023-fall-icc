@@ -23,7 +23,7 @@ Visual Studio 被誉为“宇宙第一 IDE”不是没有道理，它在项目�
 
 ### Mac 下能用 Visual Studio 吗？
 
-不太可以且没有必要，Mac上有更好用的IDE
+不太可以，你可能见过 Visual Studio for Mac，但这是写 .net 用的，Mac上有更好用的IDE
 
 ### 怎么安装各种第三方库
 

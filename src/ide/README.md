@@ -2,7 +2,7 @@
 
 你可以使用的 Python 开发环境多种多样
 
-我们班的考试机房和上机机房一致（如无意外），在计算中心 7、8号机房。如果不出意外，电脑上会安装Idle、Pycharm、Visual Studio Code这三种开发环境
+我们班的考试机房和上机机房一致（如无意外），在计算中心 7、8号机房。如果不出意外，电脑上会安装Idle、Pycharm、Visual Studio Code这三种开发环境，考试时候还会上传 thonny 供下载
 
 ## 什么是 IDE
 
