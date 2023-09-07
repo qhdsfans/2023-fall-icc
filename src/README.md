@@ -18,6 +18,13 @@ title: 计算概论C
 
 <div class="action-container">
     <a
+      href="./zero.md"
+      class="action bg3"
+      target="_blank" rel="noreferrer"
+    >
+      计算概论C第零课
+    </a>
+    <a
       href="http://openjudge.cn/"
       class="action bg5"
       target="_blank" rel="noreferrer"
