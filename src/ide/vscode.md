@@ -5,6 +5,7 @@
 1. 到[这里](https://code.visualstudio.com)下载 Visual Studio Code；
 2. 打开VSCode，选择python，VSC会自动搜索解释器位置
 3. 新建文件，写代码，启动！
+4. 在下方终端执行输入输出
 
 ## VS Code 和 VS 的关系
 

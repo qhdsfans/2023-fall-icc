@@ -26,7 +26,7 @@ export default hopeTheme({
 
   footer: "vuepress 好玩",
 
-  displayFooter: true,
+  displayFooter: false,
 
   encrypt: {
     config: {

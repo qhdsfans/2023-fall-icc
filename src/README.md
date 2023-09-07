@@ -8,10 +8,9 @@ title: 计算概论C
  
 <div class="action-container">
     <a href="./ide/" class="action bg1">开发环境相关</a>
-    <a href="./oj/" class="action bg7">编程网格相关</a>
+    <a href="./oj/" class="action bg7">Openjudge</a>
     <a href="./py/" class="action bg2">Python 相关</a>
-    <a href="./ms3/" class="action bg9">Microsoft三件套</a>
-    <a href="./errata/" class="action bg3">课件勘误</a>
+    <a href="./big/" class="action bg9">大作业相关</a>
     <a href="./answer/" class="action bg10">习题解答</a>
 </div>
 
@@ -19,11 +18,11 @@ title: 计算概论C
 
 <div class="action-container">
     <a
-      href="https://programming.pku.edu.cn/course/bcf09816033d4931a4990348e5462628/"
+      href="http://openjudge.cn/"
       class="action bg5"
       target="_blank" rel="noreferrer"
     >
-      编程网格
+      Openjudge
     </a>
     <a 
       href="https://www.bilibili.com/video/BV1ae4y1o7xt/"

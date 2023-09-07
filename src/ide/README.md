@@ -10,6 +10,8 @@ Python是一种脚本语言，编辑完成的程序，也称源代码，可以�
 
 常用的 Python IDE 包括 Visual Studio、Visual Studio Code（vscode）、Pycharm 、Jupyter 等等。
 
+关于如何运行和调试程序，请大家自行探索，一般来说这两个快捷键都是`F5`相关的。
+
 ## 目录
 
 - [Visual Studio 单文件开发](./vs)
