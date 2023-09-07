@@ -22,7 +22,40 @@ export default hopeTheme({
   navbar: false,
 
   // sidebar
-  sidebar: "structure",
+  sidebar: [
+    "README.md",
+    "zero.md",
+    {
+      text: "开发环境",
+      prefix: "/ide/",
+      collapsible: true,
+      children: ["README.md", "vs.md", "vscode.md", "pycharm.md", "online.md", "thonny.md"]
+    },
+    {
+      text: "Openjudge",
+      prefix: "/oj/",
+      collapsible: true,
+      children: ["README.md", "basic.md", "submit_result.md"]
+    },
+    {
+      text: "Python",
+      prefix: "/py/",
+      collapsible: true,
+      children: ["README.md"]
+    },
+    {
+      text: "习题解答",
+      prefix: "/ans/",
+      collapsible: true,
+      children: ["README.md"]
+    },
+    {
+      text: "大作业",
+      prefix: "/big/",
+      collapsible: true,
+      children: ["README.md"]
+    }
+  ],
 
   breadcrumb: true,
   breadcrumbIcon: true,// 导航栏
