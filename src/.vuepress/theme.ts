@@ -11,7 +11,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  logo: "",
 
   repo: "Xtuzzz/2023-fall-icc",
   repoDisplay: false,
@@ -24,13 +24,21 @@ export default hopeTheme({
   // sidebar
   sidebar: "structure",
 
+  breadcrumb: true,
+  breadcrumbIcon: true,// 导航栏
+
+  plugins: {
+    copyCode: {},
+  },// 复制代码
+
   footer: "vuepress 好玩",
 
-  displayFooter: false,
+  copyright: false,
+
+  displayFooter: true,
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
     },
   },
 
