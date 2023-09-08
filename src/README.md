@@ -32,20 +32,19 @@ title: 计算概论C
       Openjudge官网
     </a>
     <a 
-      href="https://www.bilibili.com/video/BV1ae4y1o7xt/"
+href="https://www.bilibili.com/video/BV1ae4y1o7xt/"
       class="action bg6"
       target="_blank" rel="noreferrer"
     >
       陈斌老师的 Python 教程
     </a>
     <a 
-      href="https://www.wjx.cn/vm/e4ofThu.aspx"
+href="https://www.wjx.cn/vm/e4ofThu.aspx"
       class="action bg8"
       target="_blank" rel="noreferrer"
     >
       问题反馈
     </a>
-    
 </div>
 
 ## 基本信息
