@@ -12,11 +12,6 @@ title: 计算概论C
     <a href="./py/" class="action bg2">Python 相关</a>
     <a href="./big/" class="action bg9">大作业相关</a>
     <a href="./answer/" class="action bg10">习题解答</a>
-</div>
-
-## 快捷链接
-
-<div class="action-container">
     <a
       href="./zero.md"
       class="action bg3"
@@ -24,6 +19,12 @@ title: 计算概论C
     >
       计算概论C第零课
     </a>
+</div>
+
+## 快捷链接
+
+<div class="action-container">
+    
     <a
       href="http://openjudge.cn/"
       class="action bg5"
