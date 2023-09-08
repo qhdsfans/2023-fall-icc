@@ -5,20 +5,21 @@ title: 计算概论C
 # 计算概论 C【2023年 秋季】
 
 这里是《计算概论 C》（2班）信息站。
+
+## 教程&扫盲
  
 <div class="action-container">
-    <a href="./ide/" class="action bg1">开发环境相关</a>
-    <a href="./oj/" class="action bg7">Openjudge</a>
-    <a href="./py/" class="action bg2">Python 相关（施工中）</a>
+    <a href="./计算概论C第零课.md" class="action bg4">计算概论C第零课（电脑基础扫盲教程）</a>
+    <a href="./ide/" class="action bg1">开发环境相关教程</a>
+    <a href="./oj/" class="action bg7">Openjudge教程</a>
+    <a href="./py/" class="action bg2">Python 新手教程（施工中）</a>
+</div>
+
+## 课程相关信息发布
+
+<div class="action-container">
     <a href="./big/" class="action bg9">大作业相关（施工中）</a>
     <a href="./answer/" class="action bg10">习题解答（陆续更新）</a>
-    <a
-      href="./计算概论C第零课.md"
-      class="action bg3"
-      target="_blank" rel="noreferrer"
-    >
-      计算概论C第零课
-    </a>
 </div>
 
 ## 快捷链接
@@ -36,7 +37,7 @@ href="https://www.bilibili.com/video/BV1ae4y1o7xt/"
       class="action bg6"
       target="_blank" rel="noreferrer"
     >
-      陈斌老师的 Python 教程
+      陈斌老师的 Python 教程（bilibili）
     </a>
     <a 
 href="https://www.wjx.cn/vm/e4ofThu.aspx"
