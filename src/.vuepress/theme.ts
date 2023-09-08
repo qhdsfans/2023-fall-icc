@@ -69,6 +69,7 @@ export default hopeTheme({
         }
       ]
     }
+  ],
 
   breadcrumb: true,
   breadcrumbIcon: true,// 导航栏
