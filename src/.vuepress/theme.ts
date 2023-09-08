@@ -28,7 +28,7 @@ export default hopeTheme({
       text: "教程&扫盲",
       collapsible: false,
       children: [
-        "计算概论C第零课.md", 
+        "计算概论C第零课.md",
         {
           text: "开发环境",
           prefix: "/ide/",
@@ -63,7 +63,7 @@ export default hopeTheme({
         },
         {
           text: "习题解答",
-          prefix: "/ans/",
+          prefix: "/answer/",
           collapsible: true,
           children: ["README.md"]
         }
