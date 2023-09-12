@@ -4,6 +4,41 @@ author: 深海羽翼
 
 # 计算概论C第零课 | 电脑基础扫盲帖
 
+## -1. 重要！！置顶！！先看这个！！
+### 如何下载正确的软件
+百度直接搜软件名字可能会搜出很多假的坑钱软件，这些都是百度收了钱打的广告。请**务必甄别是否为官网！一定要去官方网站下载！！**
+
+反面教材：（公开处刑）
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);zoom:36%;" 
+    src="./zero-img/反面教材.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">UC浏览器搜出来的，多半是给钱打了广告</div>
+</center>
+
+纠正后的正面教材：
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);zoom:36%;" 
+    src="./zero-img/纠正后的正面教材.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">官网上的</div>
+</center>
+
+### 如何卸载软件（不是直接按delete！！！
+Windows桌面上的图标只是个“快捷方式”！打个比方，把一个人从你的微信好友列表删掉，不代表就能让这个人从世界上消失。
+
+请使用**Windows自带的“添加或删除程序”**！找不到这个功能的话，在Windows搜索栏搜索“删除”或者“卸载”之类的，会弹出这个功能。
+
 ## 0. 前言
 
 计算概论C是为文科和社科院系开设的计算机（编程）基础课。很多人可能会想：我是学文科的，以后又不会当程序员，学这个干什么？所以，作为这门课的助教，我希望你除了编程以外，学到一些更容易受益终身的东西：对于电脑的正确认识。
