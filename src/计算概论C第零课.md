@@ -448,6 +448,6 @@ ChatGPT也可以，前提是你能上的去。如果你能够不借助他人帮�
 - 现代的Win11不需要任何杀毒软件！Windows有自带的病毒防护，那个就够用了。<font color=gray>除非你自己无视警告，执意安装那种一看就是病毒的软件。</font>  ~~让我访问！~~
 - 同理，也不需要任何所谓“电脑管家”！如果想要卸载软件，可以在开始菜单搜索“添加或删除程序”。现在，和你的360说拜拜吧~ **（不要试图通过delete键来删除软件。这条很重要，所以放在置顶了）**
 - 善用电脑上的截屏键：Windows系统，同时按Shift+Windows+S；或者用qq or 微信电脑版聊天框自带的截图工具。手机拍屏幕提问会给助教的视力造成<font color=red>**毁灭打击**</font>。（除非你有把握拍的很清楚，几乎不带摩尔纹，但这一般不太可能
-- 学会魔法：校友搭建了免费的魔法供北大师生使用：[wallesspku](wallesspku.space)
+- 学会魔法：校友搭建了免费的魔法供北大师生使用：[wallesspku](http://wallesspku.space)
 - 如果你想用电脑记笔记，建议使用 markdown，它很好学：[这里](https://markdownguide.org)。我平常用 vscode 编辑 markdown，你也可以用别的软件，比如 obsidian 或者 typora。如果你比较懒，这个在线编辑器也很好用：[这里](https://dillinger.io)。关于 vscode 的配置你可以参考[这里]( https://zhuanlan.zhihu.com/p/366596107)
 
